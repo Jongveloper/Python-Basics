@@ -117,7 +117,7 @@ for name in fr_list:
         for i in range(1, 10):
             print("%s * %s개 구매하였습니다." % (name, i))
 
-# 구구단 출력
+# 구구단 양식 출력
 for i in range(1, 10):
     for x in range(1, 10):
         print("구구단 %s * %s" % (i, x))
