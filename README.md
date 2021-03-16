@@ -1,5 +1,5 @@
 # Python-Basics
-파이썬 기초
+파이썬 기초공부
 프로그램 동산님의 강의를 기반으로 학습한 내용입니다!
 
 카페: https://cafe.naver.com/programgarden/971
