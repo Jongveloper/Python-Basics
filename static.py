@@ -13,3 +13,5 @@ class Method1():
 
 method1 = Method1()
 Method1.calcul("LG")
+
+print("알고리즘 폴더가 커밋이 책정이 안되어 커밋오류 확인용 커밋입니다.")
